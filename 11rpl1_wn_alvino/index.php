@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>WEBSISWA - Pendaftaran Siswa Baru</title>
+<title>WEBSISWA - Pendaftaran Siswa Baru 2025</title>
 </head>
 <body>
 <header>
